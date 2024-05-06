@@ -38,9 +38,15 @@ Developed by: RegisterNumber:
 */
 
 **RTL LOGIC UP COUNTER**
+![image](https://github.com/Vigneshv-23/SYNCHRONOUS-UP-COUNTER/assets/110780412/447975bc-cf77-4191-9412-5ff5c8dade20)
 
 **TIMING DIAGRAM FOR IP COUNTER**
+![image](https://github.com/Vigneshv-23/SYNCHRONOUS-UP-COUNTER/assets/110780412/9ea5b2c7-9e8a-4fd6-aba0-d5350c93888a)
 
 **TRUTH TABLE**
 
+![image](https://github.com/Vigneshv-23/SYNCHRONOUS-UP-COUNTER/assets/110780412/5babb2ee-6eaf-4de2-9aa2-de699770cb38)
+
 **RESULTS**
+
+Hence a 4 bit synchronous up counter is implemented correctly
